@@ -2,6 +2,7 @@
     margin :0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 h1{
     
@@ -15,8 +16,9 @@ h1{
 img{
     margin-top: 3%;
     padding-top:2%;
-    height: 400px;
+    max-width: 100%;
     width: 600px;
+    height: auto;
 }
 .button{
     width: auto;
