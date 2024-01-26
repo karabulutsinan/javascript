@@ -1,2 +1,3 @@
+https://karabulutsinan.github.io/javascript/to-do-list/index.html
 
-![alt](to-do-list/assets/toDoList.JPG)
+![Alt text](../assets/toDoList.JPG)
